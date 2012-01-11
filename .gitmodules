@@ -1,6 +1,6 @@
 [submodule "qf4net"]
 	path = qf4net
-	url = ssh://ken@tiger/pub/repos/avatars/qf4net.git
+	url = ../gqhsm.qf4net
 [submodule "StateProto"]
 	path = StateProto
-	url = ssh://ken@tiger/pub/repos/StateProto/StateProto.git
+	url = ../gqhsm.stateproto
