@@ -1,6 +1,6 @@
 [submodule "qf4net"]
 	path = qf4net
-	url = ../gqhsm.qf4net
+	url = https://github.com/klhurley/qf4net.git
 [submodule "StateProto"]
 	path = StateProto
-	url = ../gqhsm.stateproto
+	url = https://github.com/klhurley/StateProto.git
